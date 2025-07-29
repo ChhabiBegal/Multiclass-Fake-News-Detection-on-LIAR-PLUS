@@ -6,7 +6,7 @@ This project focuses on detecting and classifying fake news across six categorie
 
 Dataset
 Name: LIAR-PLUS
-Source: LIAR Dataset
+Source: [LIAR Dataset](https://www.kaggle.com/datasets/saketchaturvedi/liarplus)
 
 Classes:
 true
